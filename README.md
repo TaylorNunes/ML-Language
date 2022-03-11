@@ -30,6 +30,6 @@ The script contains multiple sections:
 ### Results 
 
 The two languages are linearly separable with 2 feature logistic regression with an accuracy of 99.9%.
-You can check out a more detailed description [here](https://info.tcnunes.com/projects/languageclassification).
+You can check out a more detailed description [here](https://info.tcnunes.com/projects/textclassification).
 
 
