@@ -11,7 +11,7 @@ This project requires the following packages:
 These can be installed from the requirements.txt file.
 
 ``` bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Usage 
