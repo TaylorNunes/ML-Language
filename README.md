@@ -1,5 +1,5 @@
 # Text Classification for Japanese and English
-Machine learning project to classify alphanumeric sentences into English and Japanese
+Machine learning project to classify alphanumeric sentences into English and Japanese. You can test a deployed version [here](http://app.tcnunes.com/textclassification/). Only alphanumneric characters are classified properly. 漢字, ひらがな, カタカナ, and other scripts are not classified properly.
 
 ### Installation
 This project requires the following packages:
